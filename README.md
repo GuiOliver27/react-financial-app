@@ -5,7 +5,7 @@ Sendo possível tambémx excluir as despesas já lançadas.
 ## 🛠 Habilidades
 HTML, CSS, JavaScript, React
 
-
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/37091987/229634778-962418eb-c604-4d7f-bb79-dde895d5cdb2.png" width="500px" />
+</div>
