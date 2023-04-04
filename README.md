@@ -1,12 +1,12 @@
-# Sistema de Controle Financeiro
-O sistema permite gerenciar entrada e saída de finanças, informando o nome da despesa, e definir como valor de entrada ou saída.
-Sendo possível tambémx excluir as despesas já lançadas.
+# Financial Control App
+The application allows you to manage incoming and outgoing finances, entering the name of the expense, and defining it as an incoming or outgoing value.
+It is also possible to exclude expenses already posted.
 
-## 🛠 Habilidades
+## 🛠 Skills
 HTML, CSS, JavaScript, React
 
 ## Site
-Acesse o site [aqui](https://financial-control-app.netlify.app//)
+Go to [aqui](https://financial-control-app.netlify.app//)
 
 ## Screenshots
 <div align="center">
