@@ -6,7 +6,7 @@ It is also possible to exclude expenses already posted.
 HTML, CSS, JavaScript, React
 
 ## Site
-Go to [aqui](https://financial-control-app.netlify.app//)
+Go to the app [here](https://financial-control-app.netlify.app//)
 
 ## Screenshots
 <div align="center">
